@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But the following files...
+!.gitignore
+!LICENSE
+!pom.xml
+!README.md
