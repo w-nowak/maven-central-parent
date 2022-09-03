@@ -17,7 +17,7 @@ Defining behaviour:
    should automatically be released. **Default**: true,
 * **maven-checksum-plugin.version** - an identifier of the Sonatype server configured in settings.xml
   to publish artifacts to. **Default**: ossrh,
-* **maven-sonatype-plugin.nexus**-server - url of Sonatype Nexus server.
+* **maven-sonatype-plugin.nexus-server** - url of Sonatype Nexus server.
 
 Defining plugin dependency versions:
 * **maven-checksum-plugin.version** - a version of Maven checksum plugin. **Default**: check POM for details,
