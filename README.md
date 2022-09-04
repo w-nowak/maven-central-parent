@@ -1,4 +1,4 @@
-# Maven Central parent POM
+# Maven Central parent POM v1.0.x
 Parent POM file with plugins necessary for Maven Central deployments.
 
 ## Using this parent POM
